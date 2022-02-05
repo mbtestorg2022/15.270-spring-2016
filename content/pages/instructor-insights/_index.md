@@ -72,7 +72,18 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 40% Class participation{{< br >}}- 30% Three team papers{{< br >}}- 30% Individual paper{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 40% Class participation
+- 30% Three team papers
+- 30% Individual paper
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Instructor Insights on Assessment
 
