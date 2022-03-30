@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ee21bffc-07f2-936a-5534-8e7dc8b864c8
 resourcetype: Image
 title: 15.270 classroom
 uid: 2ddd017f-b607-2d3c-c203-6fca370d188e
